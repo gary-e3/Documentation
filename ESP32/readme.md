@@ -1,6 +1,6 @@
 Documentation on the ESP32.
 
-This project link is how to use the ESP32 and iOS BLE together.
+This project link is how to use the ESP32 and iOS BLE together. 
 https://robkerr.com/posts/ble-peripheral-ios-development-part2/
 
 This is a primer on how to learn ESP and how to setup the envirnoment.
